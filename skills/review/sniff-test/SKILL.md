@@ -2,6 +2,7 @@
 name: sniff-test
 description: Review uncommited changes. Your goal this session is to 'sniff out' bad code. Good code is boring in the right places and thoughtful in the important places.
 license: MIT
+disable-model-invocation: true
 ---
 
 # Sniff-test
